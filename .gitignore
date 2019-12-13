@@ -1,0 +1,9 @@
+/jcl-default-jul/target/
+/jcl-default-jul/jcl-default-jul.iml
+/jcl-log4j2/target/classes/
+/jcl-log4j2/jcl-log4j2.iml
+/spring4-diable-jcl-use-slf4j-log4j2/target/classes/
+/spring4-diable-jcl-use-slf4j-log4j2/spring4-diable-jcl-use-slf4j-log4j2.iml
+/spring5-jcl-auto-bridged/target/classes/example/
+/spring5-jcl-auto-bridged/spring5-jcl-auto-bridged.iml
+/.idea/
